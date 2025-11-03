@@ -50,6 +50,7 @@ Other:
 \
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" style="width:40px; height:40px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/>
