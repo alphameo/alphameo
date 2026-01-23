@@ -1,7 +1,7 @@
 # Hi. I am alphameo and my name is Alekseev Pavel 👋
 
 ![alphameo](https://github-readme-stats.vercel.app/api?username=alphameo&theme=github_dark&show_icons=true&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=alphameo&theme=github-dark-blue&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-five-lake.vercel.app?user=alphameo&theme=github-dark-blue&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ## Briefly 🌵
 
