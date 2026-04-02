@@ -30,14 +30,7 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
-        
-      - name: Generate Gist
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: gist
-          options: id=bbfce31e0217a3689c8d961a356cb10d&theme=github_dark&hide_border=true
-          path: profile/gist.svg
-          token: ${{ secrets.GH_PAT }}
+
 
       - name: Commit cards
         run: |
