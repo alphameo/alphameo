@@ -1,7 +1,6 @@
 # Hi. I am alphameo and my name is Alekseev Pavel 👋
 
 [![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats-five-lake.vercel.app?user=alphameo&theme=github-dark-blue&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ## Briefly 🌵
@@ -43,6 +42,7 @@ Main:
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width:40px; height:40px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="width:40px; height:40px;"/>
 
