@@ -1,8 +1,7 @@
 # Hi. I am alphameo and my name is Alekseev Pavel 👋
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-[![alphameo](https://github-readme-stats.vercel.app/api?username=alphameo&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats-five-lake.vercel.app?user=alphameo&theme=github-dark-blue&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ## Briefly 🌵
