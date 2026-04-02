@@ -42,7 +42,7 @@ Main:
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" style="width:40px; height:40px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="width:40px; height:40px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="width:40px; height:40px;"/>
 
